@@ -23,7 +23,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && gulp licenses",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
@@ -50,7 +50,6 @@
     "typescript": "3.9.5"
   },
   "devDependencies": {
-    "gulp": "4.0.2",
-    "gulp-append-prepend": "1.0.8"
+    "i18next-parser": "^1.0.2"
   }
 }
