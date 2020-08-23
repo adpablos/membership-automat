@@ -1,0 +1,8 @@
+{
+  "title": "Automatiza la salida de los miembros inactivos de tu membership en tu comunidad privada de slack",
+  "subtitle": "No malgastes tu tiempo expulsando a los miembros inactivos de tu membership site de tu grupo privado de Slack",
+  "content": {
+    "textOne": "Welcome at our place.",
+    "textTwo": "Welcome at <1>our place</1>."
+  }
+}
