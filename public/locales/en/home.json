@@ -1,7 +1,38 @@
 {
   "title": "Automatize members exit in your slack community",
-  "content": {
-    "textOne": "Welcome at our place.",
-    "textTwo": "Welcome at <1>our place</1>."
+  "subtitle": "Do not waste your time throwing out the members of your slack community who are not active in your membership anymore",
+  "menu": {
+    "contact": "Contact",
+    "enter": "Enter",
+    "language": "Language"
+  },
+  "contact": {
+    "header": "Keep in touch?",
+    "name": {
+      "main": "Name",
+      "placeholder": "Name"
+    },
+    "email": {
+      "main": "Email",
+      "placeholder": "Email"
+    },
+    "message": {
+      "main": "Message",
+      "placeholder": "Tell us your thoughts and feelings..."
+    },
+    "send": "Send Message"
+  },
+  "product": {
+    "header": "What is Automat?",
+    "description": "Automember is a SAAS which allows you to forget taking care of the managemenet of your private slack community. You will only need to indicate your information about your Stripe and Slack connection, and AutoMember will do all the dirty work for you. You will never need to take care manually of your members in your community, paying attention to whom is not anymore paying in your membership site."
+  },
+  "footer": {
+    "contact": "Contact",
+    "made": "Made by Automember team"
+  },
+  "aboutUs": {
+    "header": "Let's talk about us",
+    "member1description": "Solid believer of ´never stop learning´. On top of that, I am a Software Engineer and a Marketing Online enthusiast.",
+    "member2description": "CTO, IT & Web Development. Pasionate of every technicall challenge."
   }
 }

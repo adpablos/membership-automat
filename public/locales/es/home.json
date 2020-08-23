@@ -1,8 +1,38 @@
 {
   "title": "Automatiza la salida de los miembros inactivos de tu membership en tu comunidad privada de slack",
   "subtitle": "No malgastes tu tiempo expulsando a los miembros inactivos de tu membership site de tu grupo privado de Slack",
-  "content": {
-    "textOne": "Welcome at our place.",
-    "textTwo": "Welcome at <1>our place</1>."
+  "menu": {
+    "contact": "Contacto",
+    "enter": "Entrar",
+    "language": "Idioma"
+  },
+  "contact": {
+    "header": "¿Quieres contactar?",
+    "name": {
+      "main": "Nombre",
+      "placeholder": "Nombre"
+    },
+    "email": {
+      "main": "Email",
+      "placeholder": "Email"
+    },
+    "message": {
+      "main": "Mensaje",
+      "placeholder": "¡Cuéntanos lo que quieras!"
+    },
+    "send": "Enviar mensaje"
+  },
+  "product": {
+    "header": "¿Qué es Automat?",
+    "description": "Automember es un SAAS que le permite olvidarse de cuidar la red de administración de su comunidad privada de holguras. Solo necesitará indicar su información sobre su conexión de Stripe y Slack, y AutoMember hará todo el trabajo sucio por usted. Nunca necesitará ocuparse manualmente de sus miembros en su comunidad, prestando atención a quién ya no paga en su sitio de membresía."
+  },
+  "footer": {
+    "contact": "Contactar",
+    "made": "Desarrollado por el equipo de Automember"
+  },
+  "aboutUs": {
+    "header": "Sobre nosotros",
+    "member1description": "Un firme creyente de 'nunca dejes de aprender'. Adem 'as de eso, soy un ingeniero del software y un entusiasmado del Marketing online.",
+    "member2description": "CTO, IT & Desarrollo Web. Apasionado de todos los retos tecnológicos."
   }
 }
